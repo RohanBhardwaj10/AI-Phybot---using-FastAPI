@@ -1,0 +1,45 @@
+# Core LangChain ecosystem
+langchain
+langchain-core
+langchain-community
+langchain-openai
+langchain-text-splitters
+langchain-groq
+langchain-chroma
+langchain-huggingface
+
+# Vector store & embeddings
+faiss-cpu
+chromadb
+sentence-transformers
+
+# Data and file handling
+python-dotenv
+pandas
+numpy
+duckdb
+numexpr
+
+# Document loaders / scrapers
+pypdf
+pymupdf
+beautifulsoup4
+arxiv
+wikipedia
+youtube-transcript-api
+unstructured
+pytube
+
+# Database connectors
+mysql-connector-python
+SQLAlchemy
+
+# Utilities
+validators
+requests
+tqdm
+huggingface-hub
+duckduckgo-search==5.3.1b1
+
+# Dev tools
+ipykernel
